@@ -1,4 +1,4 @@
-# RTL-Verification-of-Half-Adder-Using-SystemVerilog-Testbench
+# RTL_Verification_of_Half_Adder_Using_SystemVerilog_Testbench
 * Developed a SystemVerilog-based testbench to functionally verify the RTL implementation of a Half Adder.
 * Designed a modular verification environment including stimulus generation, DUT instantiation, and output monitoring.
 * Implemented directed and randomized test cases to validate all possible input combinations.
